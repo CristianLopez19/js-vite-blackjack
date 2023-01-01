@@ -12,3 +12,5 @@ Pasos para ejecutar proyecto:
 1. Ejecutar ```npm run build```
 2. Tomar la carpeta ```dist``` y desplegarla
 3. ACTUALIZAR PRRO
+4. cambios para staging
+5. cambios para local
