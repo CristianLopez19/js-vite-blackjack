@@ -14,3 +14,4 @@ Pasos para ejecutar proyecto:
 3. ACTUALIZAR PRRO
 4. cambios para staging
 5. cambios para local
+5. soy un crack
